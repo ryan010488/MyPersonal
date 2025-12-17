@@ -1,0 +1,27 @@
+2026 PAYROLL CALENDAR
+MONTH			CUT-OFF PERIOD			Cutoff Date		Payroll Crediting
+JANUARY SEMI 1		Dec 21, 2025 to  Jan 05, 2026	Monday, Jan 05, 2026	Wednesday, January 14, 2026
+JANUARY SEMI 2		Jan 06, 2026 to  Jan 20, 2026	Tuesday, Jan 20, 2026	Thursday, January 29, 2026
+FEBRUARY SEMI 1		Jan 21, 2026 to  Feb 05, 2026	Thursday, Feb 05, 2026	Friday, February 13, 2026
+FEBRUARY SEMI 2		Feb 06, 2026 to  Feb 20, 2026	Friday, Feb 20, 2026	Friday, February 27, 2026
+MARCH SEMI 1		Feb 21, 2026 to  Mar 05, 2026	Thursday, Mar 05, 2026	Friday, March 13, 2026
+MARCH SEMI 2		Mar 06, 2026 to  Mar 20, 2026	Friday, Mar 20, 2026	Friday, March 27, 2026
+APRIL SEMI 1		Mar 21, 2026 to  Apr 05, 2026	Sunday, Apr 05, 2026	Tuesday, April 14, 2026
+APRIL SEMI 2		Apr 06, 2026 to  Apr 20, 2026	Monday, Apr 20, 2026	Wednesday, April 29, 2026
+MAY SEMI 1		Apr 21, 2026 to  May 05, 2026	Tuesday, May 05, 2026	Thursday, May 14, 2026
+MAY SEMI 2		May 06, 2026 to  May 20, 2026	Wednesday, May 20, 2026	Friday, May 29, 2026
+JUNE SEMI 1		May 21, 2026 to  Jun 05, 2026	Friday, Jun 05, 2026	Saturday, Jun 13, 2026
+JUNE SEMI 2		Jun 06, 2026 to  Jun 20, 2026	Saturday, Jun 20, 2026	Monday, June 29, 2026
+JULY SEMI 1		Jun 21, 2026 to  Jul 05, 2026	Sunday, Jul 05, 2026	Tuesday, July 14, 2026
+JULY SEMI 2		Jul 06, 2026 to  Jul 20, 2026	Monday, Jul 20, 2026	Wednesday, July 29, 2026
+AUGUST SEMI 1		Jul 21, 2026 to  Aug 05, 2026	Wednesday, Aug 05, 2026	Friday, August 14, 2026
+AUGUST SEMI 2		Aug 06, 2026 to  Aug 20, 2026	Thursday, Aug 20, 2026	Friday, August 28, 2026
+SEPTEMBER SEMI 1	Aug 21, 2026 to  Sep 05, 2026	Saturday, Sep 05, 2026	Monday, September 14, 2026
+SEPTEMBER SEMI 2	Sep 06, 2026 to  Sep 20, 2026	Sunday, Sep 20, 2026	Tuesday, September 29, 2026
+OCTOBER SEMI 1		Sep 21, 2026 to  Oct 05, 2026	Monday, Oct 05, 2026	Wednesday, October 14, 2026
+OCTOBER SEMI 2		Oct 06, 2026 to  Oct 20, 2026	Tuesday, Oct 20, 2026	Thursday, October 29, 2026
+NOVEMBER SEMI 1		Oct 21, 2026 to  Nov 05, 2026	Thursday, Nov 05, 2026	Friday, November 13, 2026
+NOVEMBER SEMI 2		Nov 06, 2026 to  Nov 20, 2026	Friday, Nov 20, 2026	Friday, November 27, 2026
+DECEMBER SEMI 1		Nov 21, 2026 to  Dec 05, 2026	Saturday, Dec 05, 2026	Monday, December 14, 2026
+DECEMBER SEMI 2		Dec 06, 2026 to  Dec 20, 2026	Sunday, Dec 20, 2026	Tuesday, December 29, 2026
+
